@@ -3,6 +3,7 @@
 ## Project Overview
 This Excel project involves creating a comprehensive Coffee Sales Dashboard using data cleaning, PivotTables, and interactive visualizations. The dashboard enables users to explore coffee sales performance through dynamic filters, providing insights into sales trends, customer purchasing behavior, country performance, and product preferences. (I have included a Chinese translation below since I built this dashboard in Chinese.)
 ![Coffee Sales Dashboard](https://github.com/LiamMitchell6767/Coffee-Sales-Dashboard-in-Excel/blob/a8813c7cf2af837b628031397d8be3686cb9e7d8/Screenshot%202026-08-04%20173609.png)
+[View Dashboard](https://github.com/LiamMitchell6767/Coffee-Sales-Dashboard-in-Excel/blob/66abd82db762686b9ab6649978177c943424e662/Coffee%20Sales%20Dashboard.xlsx)
 
 ## Objectives
 - Analyze coffee sales performance and identify key trends.
@@ -50,6 +51,8 @@ Developed an interactive dashboard by combining visualizations with filters, sli
 此 Excel 專案旨在建立一個完整的咖啡銷售儀表板，運用資料清理、PivotTables 以及互動式視覺化。此儀表板讓使用者能夠透過動態篩選功能探索咖啡銷售表現，並提供關於銷售趨勢、客戶購買行為、國家銷售表現以及產品偏好的洞察。
 
 ![咖啡銷售儀表板](https://github.com/LiamMitchell6767/Coffee-Sales-Dashboard-in-Excel/blob/a8813c7cf2af837b628031397d8be3686cb9e7d8/Screenshot%202026-08-04%20173609.png)
+[查看儀表板](https://github.com/LiamMitchell6767/Coffee-Sales-Dashboard-in-Excel/blob/66abd82db762686b9ab6649978177c943424e662/Coffee%20Sales%20Dashboard.xlsx)
+
 
 ## 專案目標
 - 分析咖啡銷售表現並找出主要趨勢。
